@@ -23,6 +23,10 @@ The image captioning notebook contains all the necessary codes. These includes -
 9. Model Architecture
 10. Evaluating the Model
 
+# My Blogpost 
+
+You can read my Medium blogpost [here](https://medium.com/@harshmalra/image-captioning-using-lstm-with-flickr-data-21e3086fdabe)
+
 ## Getting Started
 
 ### Prerequisites
