@@ -34,8 +34,7 @@ The image captioning notebook contains all the necessary codes. These includes -
 
 You have two possibilities:
 
-1. The flickr8k dataset used in this project has been downloaded from: [Flickr8k_Dataset.zip]
-(https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)
+1. The flickr8k dataset used in this project has been downloaded from: [Flickr8k_Dataset.zip](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip)
 
 2. Download the caption from [here](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
 ).
@@ -43,7 +42,7 @@ You have two possibilities:
 
 ### Launch Jupyter Notebook
 
-The jupyter notebook can be opened [here] (in Colab). To avoid dealing with libraries. As all the necessary libraries are present here.
+The jupyter notebook can be opened [here](https://colab.research.google.com/drive/1474TYkl-WsrmLfbj-_vqWge9YU5NS17R#scrollTo=YsJD2Ic4DmxR) (in Colab). To avoid dealing with libraries. As all the necessary libraries are present here.
 
 ## References 
 
